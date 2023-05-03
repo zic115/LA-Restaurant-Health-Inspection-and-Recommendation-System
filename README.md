@@ -1,5 +1,7 @@
 # LA-Restaurant-Health-Inspection-and-Recommendation-System
 
+Selected as one of the Top 5 projects presented to stakeholders.
+
 Github Repo for source codes and data:
 - https://github.com/Alleria1809/dsci560_app.git
 
